@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style scoped>
+@import './style/style.scss';
 header {
   line-height: 1.5;
 }
